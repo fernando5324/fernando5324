@@ -66,8 +66,7 @@ Soy una persona comprometida y dedicada a mi trabajo, y esta dedicación se refl
  
 
 ## Contacto
-
-[![Email](https://img.shields.io/badge/lfbaltazarv@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:lfbaltazarv@gmail.com)
+[![Email](https://img.shields.io/badge/lfbaltazarv@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=red&labelColor=fff)](mailto:lfbaltazarv@gmail.com)
 
 
 
