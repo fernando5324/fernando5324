@@ -58,11 +58,11 @@ Soy una persona comprometida y dedicada a mi trabajo, y esta dedicación se refl
 
  [Red Agile Latam](https://redagilelatam.com/) ✔️
     
-      Plataforma e-learning 
+  Plataforma e-learning 
     
  [DTA Institute](https://dtainstitute.com/) ✔️
 
-      Pagina que genera certificaciones a traves de completar correctamente el examen. Toda la información que contiene la pagina es configurable incluido las preguntas y respuestas de los examenes.
+   Pagina que genera certificaciones a traves de completar correctamente el examen. Toda la información que contiene la pagina es configurable incluido las preguntas y respuestas de los examenes.
  
 
 ## Contacto
