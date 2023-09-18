@@ -26,7 +26,7 @@ Soy una persona comprometida y dedicada a mi trabajo, y esta dedicación se refl
 ![plot](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![plot](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## Proyectos realizados 👨‍💻
+## 👨‍💻 Proyectos realizados
 
  [Red Agile Latam](https://redagilelatam.com/) ✔️
     
@@ -40,7 +40,7 @@ Pagina que genera certificaciones a traves de completar correctamente el examen.
 
  Plataforma privada encargada de gestionar las horas de consumo de los equipos alquilados a traves de calculos. Generación de pre facturas , reantabilidad de contratos junto  a estimaciones de costos y gastos.
 
-## Contacto
+## 📫 Contacto
 
 [![Email](https://img.shields.io/badge/lfbaltazarv@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=red&labelColor=fff)](mailto:lfbaltazarv@gmail.com)
 
