@@ -1,6 +1,4 @@
-
-![](https://raw.githubusercontent.com/fernando5324/fernando5324/main/github-header-image.png)
-
+![https://github.com/fernando5324](https://raw.githubusercontent.com/fernando5324/fernando5324/main/github-header-image.png)
 
 ## 🚀 Sobre Mí
 Soy una persona comprometida y dedicada a mi trabajo, y esta dedicación se refleja en mi enfoque para resolver desafíos. destacado por mi persistencia en la búsqueda de soluciones y la finalización de tareas pendientes. Mi enfoque proactivo se evidencia en mi dedicación constante para resolver desafíos y lograr avances, incluso utilizando mi tiempo libre. Mi deseo de crecimiento y colaboración se refleja en mi entusiasmo por trabajar en equipo y expandir mis conocimientos en el ámbito profesional. Mi capacidad para adaptarme a diferentes situaciones me permite enfrentar cualquier desafío, siempre comprometido a dar lo mejor de mí en cada proyecto.
@@ -28,6 +26,27 @@ Soy una persona comprometida y dedicada a mi trabajo, y esta dedicación se refl
 ![plot](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![plot](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+## Proyectos realizados 👨‍💻
+
+ [Red Agile Latam](https://redagilelatam.com/) ✔️
+    
+Plataforma e-learning con usuarios de administración de diferentes roles para la configuración de la plataforma tanto el lado informativo de la pagina web sobre la empresa, la gestión de estudiantes, el contenido de los cursos (videos , examenes , simuladores , foros) y asi tambien hambitos comerciales como la edición personalizada de los correos con template. Integrado con graficos para estadisticas y en las compras Paypal con Mercado Pago.
+    
+ [DTA Institute](https://dtainstitute.com/) ✔️
+
+Pagina que genera certificaciones a traves de completar correctamente el examen. Toda la información que contiene la pagina es configurable incluido las preguntas y respuestas de los examenes. Desarrollado en Laravel y JavaScript.
+ 
+ Eurolift ✔️
+
+ Plataforma privada encargada de gestionar las horas de consumo de los equipos alquilados a traves de calculos. Generación de pre facturas , reantabilidad de contratos junto  a estimaciones de costos y gastos.
+
+## Contacto
+
+[![Email](https://img.shields.io/badge/lfbaltazarv@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=red&labelColor=fff)](mailto:lfbaltazarv@gmail.com)
+
+
+
+
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-baltazar-valenzuela-4499b148/)
 
@@ -50,26 +69,4 @@ Soy una persona comprometida y dedicada a mi trabajo, y esta dedicación se refl
 😄 Pronouns...
 
 ⚡️ Fun fact...
-
-
-## Proyectos realizados 👨‍💻
-
- [Red Agile Latam](https://redagilelatam.com/) ✔️
-    
-  Plataforma e-learning 
-    
- [DTA Institute](https://dtainstitute.com/) ✔️
-
-   Pagina que genera certificaciones a traves de completar correctamente el examen. Toda la información que contiene la pagina es configurable incluido las preguntas y respuestas de los examenes.
- 
-
-## Contacto
-[![Email](https://img.shields.io/badge/lfbaltazarv@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=red&labelColor=ffffff)](mailto:lfbaltazarv@gmail.com)
-
-
-
-
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
 
