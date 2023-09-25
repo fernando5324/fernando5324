@@ -42,12 +42,15 @@ Plataforma e-learning con usuarios de administración de diferentes roles para l
     
  [DTA Institute](https://dtainstitute.com/) ✔️
 
-Pagina que genera certificaciones a traves de completar correctamente el examen. Toda la información que contiene la pagina es configurable incluido las preguntas y respuestas de los examenes. Desarrollado en Laravel y JavaScript.
+Página que genera certificaciones a traves de completar correctamente el examen aparte de poder comprar dichas certificaciones a traves de Paypal. Toda la información que contiene la pagina es configurable incluido las preguntas y respuestas de los examenes. Desarrollado en Laravel y JavaScript.
  
  Eurolift ✔️
 
  Plataforma privada encargada de gestionar las horas de consumo de los equipos alquilados a traves de calculos. Generación de pre facturas , reantabilidad de contratos junto  a estimaciones de costos y gastos.
 
+ Portafolio de usuario ✔️
+
+ Página web administrable desde una pequeña plataforma para subir información del usuario como descripción y logros realizados. Se pueden crear nuevas paginas y tambien subir productos que el usuario quiera vender en su página.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-baltazar-valenzuela-4499b148/)
