@@ -50,7 +50,7 @@ Página que genera certificaciones a traves de completar correctamente el examen
 
  Portafolio de usuario ✔️
 
- Página web administrable desde una pequeña plataforma para subir información del usuario como descripción y logros realizados. Se pueden crear nuevas paginas y tambien subir productos que el usuario quiera vender en su página. Ejemplo [aqui](https://www.renzotrisoglio.com/) 
+ Página web administrable desde una pequeña plataforma para subir información del usuario como descripción y logros realizados. Se pueden crear nuevas paginas y tambien subir productos que el usuario quiera vender en su página. Ejemplo [aqui](https://www.renzotrisoglio.com/){:target="_blank" rel="noopener"} .
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-baltazar-valenzuela-4499b148/)
