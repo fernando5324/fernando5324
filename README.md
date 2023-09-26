@@ -34,7 +34,7 @@ Soy una persona comprometida y dedicada a mi trabajo, y esta dedicación se refl
 )
 
 
-## Proyectos realizados 👨‍💻
+## 👨‍💻 Proyectos realizados
 
  [Red Agile Latam](https://redagilelatam.com/) ✔️
     
