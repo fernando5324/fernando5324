@@ -46,7 +46,7 @@ Página que genera certificaciones a traves de completar correctamente el examen
  
  Eurolift ✔️
 
- Plataforma privada encargada de gestionar las horas de consumo de los equipos alquilados a traves de calculos. Generación de pre facturas , reantabilidad de contratos junto  a estimaciones de costos y gastos.
+ Plataforma privada encargada de gestionar las horas de consumo de equipos alquilados a traves de calculos. Generación de pre facturas , reantabilidad de contratos junto  a estimaciones de costos y gastos.
 
  Portafolio de usuario ✔️
 
