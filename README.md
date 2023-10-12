@@ -38,15 +38,15 @@ Soy una persona comprometida y dedicada a mi trabajo, y esta dedicación se refl
 
  [Red Agile Latam](https://redagilelatam.com/) ✔️
     
-Plataforma e-learning con usuarios de administración de diferentes roles para la configuración de la plataforma tanto el lado informativo de la pagina web sobre la empresa, la gestión de estudiantes, el contenido de los cursos (videos , examenes , simuladores , foros) y asi tambien hambitos comerciales como la edición personalizada de los correos con template. Integrado con graficos para estadisticas y en las compras Paypal con Mercado Pago.
+Plataforma e-learning desarrollada con Laravel que incluye usuarios con diferentes roles para la configuración de la plataforma tanto el lado informativo de la pagina web sobre la empresa, la gestión de estudiantes, el contenido de los cursos (videos , examenes , simuladores , foros) y asi tambien hambitos comerciales como la edición personalizada de los correos con template. Integrado con graficos para estadisticas y en las compras Paypal con Mercado Pago. Fui desarrolllador Full-stack y tambien hice el modulamiento de la base de datos. Por otro lado estuve a cargo del levantamiento del proyecto a producción con AWS utilizando EC2, S3, CloudFront, Amazon RDS.
     
  [DTA Institute](https://dtainstitute.com/) ✔️
 
-Página que genera certificaciones a traves de completar correctamente el examen aparte de poder comprar dichas certificaciones a traves de Paypal. Toda la información que contiene la pagina es configurable incluido las preguntas y respuestas de los examenes. Desarrollado en Laravel y JavaScript.
+Página para la institución DTA INSITUTE que se encarga de brindar certificados a sus usuarios. La pagina permite generar certificaciones a traves de completar correctamente el examen o tambien el poder comprar dichas certificaciones a traves de Paypal. Toda la información que contiene la pagina es configurable por el administrador incluido las preguntas y respuestas de los examenes . Desarrollado en Laravel y JavaScript.
  
  Eurolift ✔️
 
- Plataforma privada encargada de gestionar las horas de consumo de equipos alquilados a traves de calculos. Generación de pre facturas , reantabilidad de contratos junto  a estimaciones de costos y gastos.
+ Plataforma privada encargada de gestionar las horas de consumo de equipos alquilados a traves de calculos. Exportar en excel toda actividad realizada como Generación de pre facturas , reantabilidad de contratos junto a estimaciones de costos y gastos. Desarrollado en Laravel y JavaScript. 
 
  Portafolio de usuario ✔️
 
@@ -63,3 +63,5 @@ Página que genera certificaciones a traves de completar correctamente el examen
 [![Email](https://img.shields.io/badge/lfbaltazarv@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=red&labelColor=fff)](mailto:lfbaltazarv@gmail.com)
 
 
+## 🎯 Pasatiempos.
+Actualmente me centro en estudiar Ingles de manera autodidacta aunque aveces me relajo jugando videojuegos.
