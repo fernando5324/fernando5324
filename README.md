@@ -38,7 +38,7 @@ Soy una persona comprometida y dedicada a mi trabajo, y esta dedicación se refl
 
  [Red Agile Latam](https://redagilelatam.com/) ✔️
     
-Plataforma e-learning desarrollada con Laravel que incluye usuarios con diferentes roles para la configuración de la plataforma tanto el lado informativo de la pagina web sobre la empresa, la gestión de estudiantes, el contenido de los cursos (videos , examenes , simuladores , foros) y asi tambien hambitos comerciales como la edición personalizada de los correos con template. Integrado con graficos para estadisticas y en las compras Paypal con Mercado Pago. Fui desarrolllador Full-stack y tambien hice el modulamiento de la base de datos. Por otro lado estuve a cargo del levantamiento del proyecto a producción con AWS utilizando EC2, S3, CloudFront, Amazon RDS.
+Plataforma e-learning desarrollada con Laravel que incluye usuarios con diferentes roles para la configuración de la plataforma tanto el lado informativo de la pagina web sobre la empresa, la gestión de estudiantes, el contenido de los cursos (videos , examenes , simuladores , foros) y asi tambien hambitos comerciales como la edición personalizada de los correos con template y un carrito de compra para compra de cursos por cantidad con Paypal y MercadoPago. Integrado con graficos exportables a Excel para calculos de ganancias, popularidad de cursos y cantidad de estudiantes. Fui desarrolllador Full-stack y tambien hice el modulamiento de la base de datos. Por otro lado estuve a cargo del levantamiento del proyecto a producción con AWS utilizando EC2, S3, CloudFront, Amazon RDS.
     
  [DTA Institute](https://dtainstitute.com/) ✔️
 
@@ -46,7 +46,7 @@ Página para la institución DTA INSITUTE que se encarga de brindar certificados
  
  Eurolift ✔️
 
- Plataforma privada encargada de gestionar las horas de consumo de equipos alquilados a traves de calculos. Exportar en excel toda actividad realizada como Generación de pre facturas , reantabilidad de contratos junto a estimaciones de costos y gastos. Desarrollado en Laravel y JavaScript. 
+ Plataforma privada encargada de gestionar las horas de consumo de equipos alquilados a traves de calculos. Exportar en excel toda actividad realizada como Generar de pre facturas , generar código QR , reantabilidad de contratos junto a estimaciones de costos y gastos. Desarrollado en Laravel y JavaScript. 
 
  Portafolio de usuario ✔️
 
