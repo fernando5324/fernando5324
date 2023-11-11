@@ -46,7 +46,7 @@ Página para la institución DTA INSITUTE que se encarga de brindar certificados
  
  Eurolift ✔️
 
- Plataforma privada encargada de gestionar las horas de consumo de equipos alquilados a traves de calculos. Exportar en excel toda actividad realizada como Generar de pre facturas , generar código QR , reantabilidad de contratos junto a estimaciones de costos y gastos. Desarrollado en Laravel y JavaScript. 
+ Plataforma privada encargada de gestionar las horas de consumo de equipos y gestionar el inventario a traves de calculos. Exportar en excel toda actividad realizada como Generar de pre facturas , generar código QR , reantabilidad de contratos junto a estimaciones de costos y gastos. Desarrollado en Laravel y JavaScript. 
 
  Portafolio de usuario ✔️
 
