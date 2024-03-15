@@ -42,7 +42,11 @@ Plataforma e-learning desarrollada con Laravel que incluye usuarios con diferent
     
  [DTA Institute](https://dtainstitute.com/) ✔️
 
-Página para la institución DTA INSITUTE que se encarga de brindar certificados a sus usuarios. La pagina permite generar certificaciones a traves de completar correctamente el examen o tambien el poder comprar dichas certificaciones a traves de Paypal. Toda la información que contiene la pagina es configurable por el administrador incluido las preguntas y respuestas de los examenes . Desarrollado en Laravel y JavaScript.
+Para la institución DTA INSITUTE que se encarga de brindar certificados a sus usuarios. La pagina permite generar certificaciones de manera automatica en PDF a traves de completar correctamente el examen o tambien el poder comprar dichas certificaciones a traves de Paypal. Toda la información que contiene la pagina es configurable por el administrador incluido las preguntas y respuestas de los examenes. Desarrollado en Laravel y JavaScript e integrado con AWS.
+
+ [DigIn](https://digin.pe/) ✔️
+Encargado de la gestión de la plataforma web, creando múltiples páginas administrativas y generando informes según las necesidades, incluyendo la organización de grandes volúmenes de datos, la creación de gráficos con Apache ECharts, integraciones con Google Maps y funcionalidades exportables. Continuamente desarrollo nuevas características y proporciono mantenimiento como profesional independiente.
+ 
  
  Eurolift ✔️
 
