@@ -1,7 +1,7 @@
 ![https://github.com/fernando5324](https://raw.githubusercontent.com/fernando5324/fernando5324/main/github-header-image.png)
 
 ## 🚀 Sobre Mí
-Soy una persona comprometida y dedicada a mi trabajo, y esta dedicación se refleja en mi enfoque para resolver desafíos. destacado por mi persistencia en la búsqueda de soluciones y la finalización de tareas pendientes. Mi enfoque proactivo se evidencia en mi dedicación constante para resolver desafíos y lograr avances, incluso utilizando mi tiempo libre. Mi deseo de crecimiento y colaboración se refleja en mi entusiasmo por trabajar en equipo y expandir mis conocimientos en el ámbito profesional. Mi capacidad para adaptarme a diferentes situaciones me permite enfrentar cualquier desafío, siempre comprometido a dar lo mejor de mí en cada proyecto.
+Soy una persona comprometida y dedicada a mi trabajo. He cultivado habilidades tanto en el frontend como en el backend. Me destaco por mi perseverancia al abordar desafíos y buscar soluciones, incluso en situaciones exigentes y bajo presión. Mi dedicación para obtener respuestas y mi capacidad para mantener el enfoque en metas específicas me permiten mantenerme comprometido y productivo. Aunque mi determinación a menudo me lleva a invertir tiempo fuera del horario laboral, este enfoque proactivo ha demostrado ser eficaz para lograr resultados o avances significativos de manera oportuna. En términos sociales, soy una persona reservada, pero esta característica no ha obstaculizado mi capacidad para formar nuevas amistades. Estoy entusiasmado por continuar contribuyendo al éxito en el desarrollo web, aprovechando mi experiencia y habilidades para enfrentar nuevos desafíos con determinación y profesionalismo.
 
 ## 🛠 Habilidades
 
@@ -53,9 +53,9 @@ Encargado de la gestión de la plataforma web, creando múltiples páginas admin
 
  Plataforma privada encargada de gestionar las horas de consumo de equipos y gestionar el inventario a traves de calculos. Exportar en excel toda actividad realizada como Generar de pre facturas , generar código QR , reantabilidad de contratos junto a estimaciones de costos y gastos. Desarrollado en Laravel y JavaScript. 
 
- Portafolio de usuario ✔️
+ [Portafolio de usuario](https://www.renzotrisoglio.com/) ✔️
 
- Página web administrable desde una pequeña plataforma para subir información del usuario como descripción y logros realizados. Se pueden crear nuevas paginas y tambien subir productos que el usuario quiera vender en su página. Ejemplo [aqui](https://www.renzotrisoglio.com/).
+ Página web completamente administrable con una plataforma para subir información del usuario como información personal, articulos, logros, servicios. Se pueden crear nuevas paginas configurables y tambien subir productos que el usuario quiera vender en forma de catalogo. Laravel, JavaScript e integrado con AWS ademas de integrar temas SEO para el posicionamiento de la web en las busquedas. En ejemplo el sistema ya se encuentra finalizado y en uso. 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-baltazar-valenzuela-4499b148/)
@@ -69,4 +69,4 @@ Encargado de la gestión de la plataforma web, creando múltiples páginas admin
 
 
 ## 🎯 Pasatiempos.
-Actualmente me centro en estudiar Ingles de manera autodidacta aunque aveces me relajo jugando videojuegos.
+Actualmente me encuentro desarrollado un proyecto personal utilizando Laravel con React junto a IneriaJs. Tambien trato de estudiar Ingles de manera autodidacta aunque aveces me relajo jugando videojuegos.
