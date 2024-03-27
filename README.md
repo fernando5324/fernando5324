@@ -48,14 +48,13 @@ Para la institución DTA INSITUTE que se encarga de brindar certificados a sus u
  
 Encargado de la gestión de la plataforma web, creando múltiples páginas administrativas y generando informes según las necesidades, incluyendo la organización de grandes volúmenes de datos, la creación de gráficos con Apache ECharts, integraciones con Google Maps y funcionalidades exportables. Continuamente desarrollo nuevas características y proporciono mantenimiento como profesional independiente.
  
- 
- Eurolift ✔️
-
- Plataforma privada encargada de gestionar las horas de consumo de equipos y gestionar el inventario a traves de calculos. Exportar en excel toda actividad realizada como Generar de pre facturas , generar código QR , reantabilidad de contratos junto a estimaciones de costos y gastos. Desarrollado en Laravel y JavaScript. 
-
  [Portafolio de usuario](https://www.renzotrisoglio.com/) ✔️
 
  Página web completamente administrable con una plataforma para subir información del usuario como información personal, articulos, logros, servicios. Se pueden crear nuevas paginas configurables y tambien subir productos que el usuario quiera vender en forma de catalogo. Laravel, JavaScript e integrado con AWS ademas de integrar temas SEO para el posicionamiento de la web en las busquedas. En ejemplo el sistema ya se encuentra finalizado y en uso. 
+
+ Eurolift ✔️
+
+ Plataforma privada encargada de gestionar las horas de consumo de equipos y gestionar el inventario a traves de calculos. Exportar en excel toda actividad realizada como Generar de pre facturas , generar código QR , reantabilidad de contratos junto a estimaciones de costos y gastos. Desarrollado en Laravel y JavaScript. 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-baltazar-valenzuela-4499b148/)
