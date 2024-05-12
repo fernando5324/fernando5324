@@ -1,7 +1,7 @@
 ![https://github.com/fernando5324](https://raw.githubusercontent.com/fernando5324/fernando5324/main/github-header-image.png)
 
 ## 🚀 Sobre Mí
-Soy una persona comprometida y dedicada a mi trabajo. He cultivado habilidades tanto en el frontend como en el backend. Me destaco por mi perseverancia al abordar desafíos y buscar soluciones, incluso en situaciones exigentes y bajo presión. Mi dedicación para obtener respuestas y mi capacidad para mantener el enfoque en metas específicas me permiten mantenerme comprometido y productivo. Aunque mi determinación a menudo me lleva a invertir tiempo fuera del horario laboral, este enfoque proactivo ha demostrado ser eficaz para lograr resultados o avances significativos de manera oportuna. En términos sociales, soy una persona reservada, pero esta característica no ha obstaculizado mi capacidad para formar nuevas amistades. Estoy entusiasmado por continuar contribuyendo al éxito en el desarrollo web, aprovechando mi experiencia y habilidades para enfrentar nuevos desafíos con determinación y profesionalismo.
+Soy una persona comprometida y dedicada a mi trabajo. He cultivado habilidades tanto en el frontend como en el backend. Me destaco por mi perseverancia al abordar desafíos y buscar soluciones, incluso en situaciones exigentes y bajo presión. Mi dedicación para obtener respuestas y mi capacidad para mantener el enfoque en metas específicas me permiten mantenerme comprometido y productivo. Estoy entusiasmado por continuar contribuyendo al éxito en el desarrollo web, aprovechando mi experiencia y habilidades para enfrentar nuevos desafíos con determinación y profesionalismo.
 
 ## 🛠 Habilidades
 
