@@ -62,6 +62,10 @@ Encargado de la gestión de la plataforma web, creando múltiples páginas admin
 
 [![Email](https://img.shields.io/badge/lfbaltazarv@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=red&labelColor=fff)](mailto:lfbaltazarv@gmail.com)
 
+## 🏅 Certificado
+
+[Python](https://raw.githubusercontent.com/fernando5324/fernando5324/main/certificado-actualizacion-en-python.pdf)
+
 
 ## 🎯 Pasatiempos.
 Actualmente me encuentro desarrollado un proyecto personal utilizando Laravel con React junto a IneriaJs. Tambien trato de estudiar Ingles de manera autodidacta aunque aveces me relajo jugando videojuegos.
