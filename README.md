@@ -1,7 +1,7 @@
 ![https://github.com/fernando5324](https://raw.githubusercontent.com/fernando5324/fernando5324/main/github-header-image.png)
 
 ## 🚀 Sobre Mí
-Soy una persona comprometida y dedicada a mi trabajo. He cultivado habilidades tanto en el frontend como en el backend. Me destaco por mi perseverancia al abordar desafíos y buscar soluciones, incluso en situaciones exigentes y bajo presión. Mi dedicación para obtener respuestas y mi capacidad para mantener el enfoque en metas específicas me permiten mantenerme comprometido y productivo. Estoy entusiasmado por continuar contribuyendo al éxito en el desarrollo web, aprovechando mi experiencia y habilidades para enfrentar nuevos desafíos con determinación y profesionalismo.
+Soy una persona comprometida y dedicada a mi trabajo. Tengo habilidades tanto en el frontend como en el backend. Me destaco por mi perseverancia al abordar desafíos y buscar soluciones, incluso en situaciones exigentes y bajo presión. Mi dedicación para obtener respuestas y mi capacidad para mantener el enfoque en metas específicas me permiten mantenerme comprometido y productivo. Estoy entusiasmado por continuar contribuyendo al éxito en el desarrollo web, aprovechando mi experiencia y habilidades para enfrentar nuevos desafíos con determinación y profesionalismo.
 
 ## 🛠 Habilidades
 
@@ -51,6 +51,10 @@ Encargado de la gestión de la plataforma web, creando múltiples páginas admin
  Eurolift ✔️
 
  Plataforma privada encargada de gestionar las horas de consumo de equipos y gestionar el inventario a traves de calculos. Exportar en excel toda actividad realizada como Generar de pre facturas , generar código QR , reantabilidad de contratos junto a estimaciones de costos y gastos. Desarrollado en Laravel y JavaScript. 
+
+  Peru Wayna Picchu ✔️
+Responsable del desarrollo completo de un proyecto web a medida, liderando tanto el frontend como el backend. Migré toda la información desde un sitio en WordPress hacia una base de datos personalizada, estructurando el contenido para un mejor rendimiento y escalabilidad. Implementé funcionalidades con Laravel y React, y me encargué del despliegue completo en AWS (EC2, S3, CloudFront). Automatización de procesos como generación semanal de sitemaps, respaldos de bases de datos con subida a Google Drive mediante Rclone, y envío de correos personalizados con archivos adjuntos. Optimización del rendimiento del sitio cumpliendo con métricas de Core Web Vitals, caching eficiente y mejora de tiempos de respuesta del servidor. Recibo apoyo en diseño UX, pero gestiono de forma autónoma todos los aspectos técnicos y de infraestructura del proyecto.
+ 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-baltazar-valenzuela-4499b148/)
