@@ -52,8 +52,9 @@ Encargado de la gestión de la plataforma web, creando múltiples páginas admin
 
  Plataforma privada encargada de gestionar las horas de consumo de equipos y gestionar el inventario a traves de calculos. Exportar en excel toda actividad realizada como Generar de pre facturas , generar código QR , reantabilidad de contratos junto a estimaciones de costos y gastos. Desarrollado en Laravel y JavaScript. 
 
-  Peru Wayna Picchu ✔️
-Responsable del desarrollo completo de un proyecto web a medida, liderando tanto el frontend como el backend. Migré toda la información desde un sitio en WordPress hacia una base de datos personalizada, estructurando el contenido para un mejor rendimiento y escalabilidad. Implementé funcionalidades con Laravel y React, y me encargué del despliegue completo en AWS (EC2, S3, CloudFront). Automatización de procesos como generación semanal de sitemaps, respaldos de bases de datos con subida a Google Drive mediante Rclone, y envío de correos personalizados con archivos adjuntos. Optimización del rendimiento del sitio cumpliendo con métricas de Core Web Vitals, caching eficiente y mejora de tiempos de respuesta del servidor. Recibo apoyo en diseño UX, pero gestiono de forma autónoma todos los aspectos técnicos y de infraestructura del proyecto.
+ Peru Wayna Picchu ✔️
+ 
+ Responsable del desarrollo completo de un proyecto web a medida, liderando tanto el frontend como el backend. Migré toda la información desde un sitio en WordPress hacia una base de datos personalizada, estructurando el contenido para un mejor rendimiento y escalabilidad. Implementé funcionalidades con Laravel y React, y me encargué del despliegue completo en AWS (EC2, S3, CloudFront). Automatización de procesos como generación semanal de sitemaps, respaldos de bases de datos con subida a Google Drive mediante Rclone, y envío de correos personalizados con archivos adjuntos. Optimización del rendimiento del sitio cumpliendo con métricas de Core Web Vitals, caching eficiente y mejora de tiempos de respuesta del servidor. Recibo apoyo en diseño UX, pero gestiono de forma autónoma todos los aspectos técnicos y de infraestructura del proyecto.
  
 
 ## 🔗 Links
